@@ -239,4 +239,4 @@ This repository serves as the official landing page for BIGO LIVE. The software 
 **Get the most recent version of BIGO LIVE today!**
 
 ---
-**Last updated:** 2026-10-07 20:25:15 UTC
+**Last updated:** 2026-10-08 00:35:14 UTC
